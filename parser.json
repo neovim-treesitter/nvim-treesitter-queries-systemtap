@@ -1,8 +1,7 @@
 {
-  "semver": false,
+  "parser_version": "f2b378a9af0b7e1192cff67a5fb45508c927205d",
   "lang": "systemtap",
-  "max_version": null,
   "location": null,
-  "min_version": null,
-  "url": "https://github.com/ok-ryoko/tree-sitter-systemtap"
+  "url": "https://github.com/ok-ryoko/tree-sitter-systemtap",
+  "semver": false
 }
